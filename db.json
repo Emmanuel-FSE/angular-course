@@ -22,13 +22,19 @@
       "id": 4,
       "text": "Gaming a lot",
       "day": "June 8th at 1:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Programming",
       "day": "June 8th",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Lido seedr",
+      "day": "April 28th",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
